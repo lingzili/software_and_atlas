@@ -1,4 +1,4 @@
-# software_and_atlas
+# Softwares and atlas in bioinformatics
 
 ### Database/Atlas
 

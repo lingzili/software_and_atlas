@@ -25,6 +25,10 @@
 - [OmniPath](https://omnipathdb.org/) - Integrated intra- and intercellular signaling knowledge for multicellular omics analysis
 
 ### Books on machine learning with R
-- [Computational Genomics with R](http://compgenomr.github.io/book/)
-- [Hands-On Machine Learning with R](https://bradleyboehmke.github.io/HOML/)
-- [The caret Package](https://topepo.github.io/caret/index.html)
+- [Computational Genomics with R by Altuna Akalin](http://compgenomr.github.io/book/)
+- [Hands-On Machine Learning with R by Bradley Boehmke and Brandon Greenwell](https://bradleyboehmke.github.io/HOML/)
+- [The caret Package by Max Kuhn](https://topepo.github.io/caret/index.html)
+
+### Tutorials on analysis of single cell RNA-seq data
+- [ANALYSIS OF SINGLE CELL RNA-SEQ DATA by Orr Ashenberg, Dana Silverbush and Kirk Gosik](https://broadinstitute.github.io/2020_scWorkshop/)
+- [simpleSingleCell by Aaron Lun, Davis McCarthy and John Marioni](https://doi.org/doi:10.18129/B9.bioc.simpleSingleCell)

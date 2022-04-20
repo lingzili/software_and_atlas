@@ -24,8 +24,9 @@
 - [Shiny GAM](https://artyomovlab.wustl.edu/shiny/gam/) - A web-service for integrated transcriptional and metabolic network analysis (https://doi.org/10.1093/nar/gkw266)
 - [OmniPath](https://omnipathdb.org/) - Integrated intra- and intercellular signaling knowledge for multicellular omics analysis
 
-### Books on machine learning with R
+### Books on machine learning and genomics with R
 - [Computational Genomics with R by Altuna Akalin](http://compgenomr.github.io/book/)
+- [Introduction to Bioinformatics and Computational Biology for STAT115/215 BIO/BST282 at Harvard University](https://liulab-dfci.github.io/bioinfo-combio/)
 - [Hands-On Machine Learning with R by Bradley Boehmke and Brandon Greenwell](https://bradleyboehmke.github.io/HOML/)
 - [The caret Package by Max Kuhn](https://topepo.github.io/caret/index.html)
 

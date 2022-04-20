@@ -21,3 +21,10 @@
 - [The MetaRbolomics book](https://rformassspectrometry.github.io/metaRbolomics-book/) - Overview of R packages to analyse metabolomics data
 - [MetScape 3 for Cytoscape](http://metscape.ncibi.org/index.html) - Bioinformatics framework for the visualization and interpretation of metabolomic and expression profiling data in the context of human metabolism
 - [MetExploreViz](https://metexplore.toulouse.inrae.fr/metexploreViz/doc/index.php) - Visualize metabolic networks on many styles of nodes and edges
+- [Shiny GAM](https://artyomovlab.wustl.edu/shiny/gam/) - A web-service for integrated transcriptional and metabolic network analysis (https://doi.org/10.1093/nar/gkw266)
+- [OmniPath](https://omnipathdb.org/) - Integrated intra- and intercellular signaling knowledge for multicellular omics analysis
+
+### Books on machine learning with R
+- [Computational Genomics with R](http://compgenomr.github.io/book/)
+- [Hands-On Machine Learning with R](https://bradleyboehmke.github.io/HOML/)
+- [The caret Package](https://topepo.github.io/caret/index.html)

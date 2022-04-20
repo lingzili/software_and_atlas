@@ -11,5 +11,13 @@
 - [DICE](https://dice-database.org/) - A reference of transcriptomic and eQTL data for the human immune system
 - [Tabula Muris](https://tabula-muris.ds.czbiohub.org/) - A compendium of single cell transcriptome data from the model organism Mus musculus
 - [MetaboLights](https://www.ebi.ac.uk/metabolights/index) - A database for Metabolomics experiments
+- [Metabolic Atlas](https://metabolicatlas.org/) - Open-source genome scale metabolic models (GEMs) for different species
+- [RaMP (Relational Database of Metabolomic Pathways)](https://github.com/ncats/RaMP-DB/) - A comprehensive relational database of metabolomics pathways for pathway enrichment analysis of genes and metabolites
 - [Reactome](https://reactome.org/) - Pathway database, intuitive bioinformatics tools for the visualization, interpretation and analysis of pathways
 - [Omics Discovery Index (OmicsDI)](https://www.omicsdi.org/) - An open source platform to access, discover and disseminate omics datasets (proteomics, genomics, metabolomics, models and transcriptomics)
+
+### Softwares
+- [Learning About T Cells Through Data - Chapter 3 Flow](https://tcelldata.hammerlab.org/flow.html) - Using R packages to analyse flow cytometry data
+- [The MetaRbolomics book](https://rformassspectrometry.github.io/metaRbolomics-book/) - Overview of R packages to analyse metabolomics data
+- [MetScape 3 for Cytoscape](http://metscape.ncibi.org/index.html) - Bioinformatics framework for the visualization and interpretation of metabolomic and expression profiling data in the context of human metabolism
+- [MetExploreViz](https://metexplore.toulouse.inrae.fr/metexploreViz/doc/index.php) - Visualize metabolic networks on many styles of nodes and edges
